@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412572951320",
+    "project_id": "quicksell-93e62",
+    "storage_bucket": "quicksell-93e62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412572951320:android:caeb94865b236dc0ca346d",
+        "android_client_info": {
+          "package_name": "com.example.quicksell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXoNDsrrGvdvIuiMc68Z6OxsJWp6P_FAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
